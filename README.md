@@ -1,6 +1,11 @@
 # grocery_app
 
-A new Flutter project.
+Get groceries and fresh vegetables from one awesome app.
+
+## Screenshots
+
+![Screenshot 1](./Assets/Screenshots/3dmkup-sc1.png)
+![Screenshot 1](./Assets/Screenshots/Screenshot%20from%202022-12-15%2017-24-07.png)
 
 ## Getting Started
 
