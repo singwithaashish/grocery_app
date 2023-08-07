@@ -3,7 +3,6 @@
 Get groceries and fresh vegetables from one awesome app.
 
 ## Screenshots
-![0](https://user-images.githubusercontent.com/52033403/212312812-c619b785-e8f8-4864-8f8b-26631c369c09.jpeg)
 ![1](https://user-images.githubusercontent.com/52033403/212312819-c421402d-f470-489d-9c94-a007f8044d9a.jpeg)
 ![2](https://user-images.githubusercontent.com/52033403/212312823-f933bb1f-bc9f-4d8e-8c90-c81a7b0f968a.jpeg)
 ![3](https://user-images.githubusercontent.com/52033403/212312828-9b82bc9d-3550-4fa0-883f-0e23626ead0c.jpeg)
